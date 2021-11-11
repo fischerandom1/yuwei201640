@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yuwei201640
+- 👋 Hi, I’m yuwei
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning data analysis
 - 💞️ I’m looking to collaborate on ...
